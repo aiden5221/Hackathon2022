@@ -92,7 +92,7 @@ select:focus{
 }
 .prod{
     font-family: 'Montserrat', sans-serif; 
-    position:absolute;
+    position:relative;
     margin:0;
     text-align:center;
 }
